@@ -1,0 +1,6 @@
+admin,admin123,Admin
+pranit,rakesh123,Manager
+saluna,saluna123,Chef
+preety,preety123,Customer
+sachina,sachina123,Customer
+aasha,aasha123,Chef

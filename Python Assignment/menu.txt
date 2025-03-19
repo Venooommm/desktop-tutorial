@@ -1,0 +1,3 @@
+01,Momo,150.0
+02,pizza,500
+03,Kima Noodles,250
